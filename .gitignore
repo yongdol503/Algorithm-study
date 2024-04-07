@@ -1,4 +1,7 @@
 test.py
 test.c
+test.cpp
 *.exe
 .vscode
+build
+*.dSYM
